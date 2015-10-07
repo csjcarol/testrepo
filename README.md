@@ -28,6 +28,6 @@ try diff
 
 t1
 
-trunk 2 commit 
+t2
 
 trunk 3 commit
