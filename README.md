@@ -26,7 +26,7 @@ try diff
 
 +3
 
-trunk 1 commit
+t1
 
 trunk 2 commit 
 
